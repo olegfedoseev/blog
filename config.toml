@@ -1,0 +1,41 @@
+baseURL = "https://oleg.fedoseev.io/"
+languageCode = "en-us"
+title = "oleg.fedoseev"
+theme = "hemingway2"
+
+description = "Your personal description"
+keywords = ["go", "golang", "software development", "docker", "php"]
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://github.com/olegfedoseev"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/olegfedoseev"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "https://instagram.com/olegfedoseev"
+fa_icon = "fa-instagram"
+
+[[params.social]]
+url = "https://facebook.com/olegfedoseev"
+fa_icon = "fa-facebook"
+
+[[params.social]]
+url = "https://telegram.me/olegfedoseev"
+fa_icon = "fa-telegram"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
