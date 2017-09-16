@@ -1,4 +1,4 @@
-baseURL = "https://oleg.fedoseev.io/"
+baseURL = "http://oleg.fedoseev.io"
 languageCode = "en-us"
 title = "oleg.fedoseev"
 theme = "hemingway2"

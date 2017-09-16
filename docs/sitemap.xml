@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://oleg.fedoseev.io/redis-trick-using-get-and-sort/</loc>
+    <loc>http://oleg.fedoseev.io/redis-trick-using-get-and-sort/</loc>
     <lastmod>2011-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/mongodb-write-your-own-reads/</loc>
+    <loc>http://oleg.fedoseev.io/mongodb-write-your-own-reads/</loc>
     <lastmod>2011-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/zend-certified-enginer/</loc>
+    <loc>http://oleg.fedoseev.io/zend-certified-enginer/</loc>
     <lastmod>2009-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/categories/</loc>
+    <loc>http://oleg.fedoseev.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/post/</loc>
+    <loc>http://oleg.fedoseev.io/post/</loc>
     <lastmod>2011-12-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/tags/</loc>
+    <loc>http://oleg.fedoseev.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/</loc>
+    <loc>http://oleg.fedoseev.io/</loc>
     <lastmod>2011-12-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
