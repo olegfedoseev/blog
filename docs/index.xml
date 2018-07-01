@@ -2,41 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>oleg.fedoseev</title>
-    <link>http://oleg.fedoseev.io/</link>
+    <link>https://oleg.fedoseev.io/</link>
     <description>Recent content on oleg.fedoseev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Dec 2011 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://oleg.fedoseev.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oleg.fedoseev.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Мониторинг в 2k18</title>
+      <link>https://oleg.fedoseev.io/monitoring-in-2k18/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://oleg.fedoseev.io/monitoring-in-2k18/</guid>
+      <description>&lt;p&gt;Рассказал про мониторинг на &lt;a href=&#34;https://www.meetup.com/DEVNSK/events/250538484/&#34;&gt;Backend Meetup&amp;rsquo;е&lt;/a&gt; от сообщества &lt;a href=&#34;https://www.meetup.com/DEVNSK/&#34;&gt;DEVNSK&lt;/a&gt;
+
+&lt;iframe width=&#34;800&#34; height=&#34;450&#34; src=&#34;https://www.youtube.com/embed/pPaGO9n0_E8&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Redis - хитрость использования GET и SORT</title>
-      <link>http://oleg.fedoseev.io/redis-trick-using-get-and-sort/</link>
+      <link>https://oleg.fedoseev.io/redis-trick-using-get-and-sort/</link>
       <pubDate>Wed, 21 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://oleg.fedoseev.io/redis-trick-using-get-and-sort/</guid>
+      <guid>https://oleg.fedoseev.io/redis-trick-using-get-and-sort/</guid>
       <description>Когда нужно сохранить в редисе сложную структуру данных, обычно делают следующим образом - значения хранят в обычных ключах, например: redis&amp;gt; SET prefix-field-title &amp;ldquo;Title&amp;rdquo; OK redis&amp;gt; SET prefix-field-name &amp;ldquo;Name of the object&amp;rdquo; OK redis&amp;gt; SET prefix-field-desc &amp;ldquo;Description&amp;rdquo; OK redis&amp;gt; SET prefix-field-tags &amp;ldquo;Tags of the object&amp;rdquo; OK 
 При этом список нужных полей хранится в &amp;ldquo;списке&amp;rdquo;: redis&amp;gt; LPUSH object &amp;ldquo;title&amp;rdquo; (integer) 1 redis&amp;gt; LPUSH object &amp;ldquo;name&amp;rdquo; (integer) 2 redis&amp;gt; LPUSH object &amp;ldquo;tags&amp;rdquo; (integer) 3 redis&amp;gt; LRANGE object 0 -1 1) &amp;ldquo;tags&amp;rdquo; 2) &amp;ldquo;name&amp;rdquo; 3) &amp;ldquo;title&amp;rdquo;</description>
     </item>
     
     <item>
       <title>MongoDB - как убедиться что мы обновляем то, что прочитали?</title>
-      <link>http://oleg.fedoseev.io/mongodb-write-your-own-reads/</link>
+      <link>https://oleg.fedoseev.io/mongodb-write-your-own-reads/</link>
       <pubDate>Sat, 17 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://oleg.fedoseev.io/mongodb-write-your-own-reads/</guid>
+      <guid>https://oleg.fedoseev.io/mongodb-write-your-own-reads/</guid>
       <description>Иногда бывает необходимо убедиться что обновляемый документ не был изменён кем-то ещё после того как мы его прочитали. В мире реляционных баз данных для этого можно было бы применить транзакции, хотя они тоже не лучшее решение. Но в MongoDB нет даже транзакций. Как бы в такой ситуации?
 Рассмотрим типичный use-case - редактирование документа через веб-форму. После того как мы прочитали документ и начали его редактировать и до момента сохранения может пройти много времени.</description>
     </item>
     
     <item>
       <title>Теперь я Zend Certified Engineer</title>
-      <link>http://oleg.fedoseev.io/zend-certified-enginer/</link>
+      <link>https://oleg.fedoseev.io/zend-certified-enginer/</link>
       <pubDate>Mon, 27 Apr 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://oleg.fedoseev.io/zend-certified-enginer/</guid>
+      <guid>https://oleg.fedoseev.io/zend-certified-enginer/</guid>
       <description>24 апреля я успешно сдал тест на звание Zend Certified Engineer. Я 61-ый в России, кто получил этот сертификат.
 Подготовка заняла месяца два не сильно напрягаясь. Использовал 8 из 10 пробных экзаменов, но как оказалось вопросы на реальном экзамене хоть и на те же темы, но более сложные. Хотя если знаешь предмет, то всё равно проблем не возникнет.
 На тест дается 90 минут, но я уложился в час, успев дважды проверить все вопросы.</description>

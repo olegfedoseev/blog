@@ -2,13 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on oleg.fedoseev</title>
-    <link>http://oleg.fedoseev.io/tags/</link>
+    <link>https://oleg.fedoseev.io/tags/</link>
     <description>Recent content in Tags on oleg.fedoseev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 23 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://oleg.fedoseev.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oleg.fedoseev.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Devnsk</title>
+      <link>https://oleg.fedoseev.io/tags/devnsk/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://oleg.fedoseev.io/tags/devnsk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meetups</title>
+      <link>https://oleg.fedoseev.io/tags/meetups/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://oleg.fedoseev.io/tags/meetups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring</title>
+      <link>https://oleg.fedoseev.io/tags/monitoring/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://oleg.fedoseev.io/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N1ru</title>
+      <link>https://oleg.fedoseev.io/tags/n1ru/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://oleg.fedoseev.io/tags/n1ru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://oleg.fedoseev.io/tags/talks/</link>
+      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://oleg.fedoseev.io/tags/talks/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

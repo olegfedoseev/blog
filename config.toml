@@ -2,6 +2,7 @@ baseURL = "https://oleg.fedoseev.io"
 languageCode = "en-us"
 title = "oleg.fedoseev"
 theme = "hemingway2"
+publishDir = "docs"
 
 description = "Your personal description"
 keywords = ["go", "golang", "software development", "docker", "php"]

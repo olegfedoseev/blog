@@ -4,8 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta content="" name="keywords">
-<meta content="Posts - oleg.fedoseev" property="og:title">
-<title>Posts | oleg.fedoseev</title>
+<meta content="N1ru - oleg.fedoseev" property="og:title">
+<title>N1ru | oleg.fedoseev</title>
 <link rel="stylesheet" href="https://oleg.fedoseev.io/css/style.css">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
@@ -90,61 +90,6 @@
 
           
           ...<a class="button is-link" href="https://oleg.fedoseev.io/monitoring-in-2k18/" style="height:28px">
-            Read more
-            <span class="icon is-small">
-              <i class="fa fa-angle-double-right"></i>
-            </span>
-          </a>
-          
-        </div>
-      </article>
-      
-      <article>
-        <h2 class="subtitle is-6">December 21, 2011</h2>
-        <h1 class="title"><a href="https://oleg.fedoseev.io/redis-trick-using-get-and-sort/">Redis - хитрость использования GET и SORT</a></h1>
-        
-        <div class="content">
-          Когда нужно сохранить в редисе сложную структуру данных, обычно делают следующим образом - значения хранят в обычных ключах, например: redis&gt; SET prefix-field-title &ldquo;Title&rdquo; OK redis&gt; SET prefix-field-name &ldquo;Name of the object&rdquo; OK redis&gt; SET prefix-field-desc &ldquo;Description&rdquo; OK redis&gt; SET prefix-field-tags &ldquo;Tags of the object&rdquo; OK 
-При этом список нужных полей хранится в &ldquo;списке&rdquo;: redis&gt; LPUSH object &ldquo;title&rdquo; (integer) 1 redis&gt; LPUSH object &ldquo;name&rdquo; (integer) 2 redis&gt; LPUSH object &ldquo;tags&rdquo; (integer) 3 redis&gt; LRANGE object 0 -1 1) &ldquo;tags&rdquo; 2) &ldquo;name&rdquo; 3) &ldquo;title&rdquo;
-          
-          ...<a class="button is-link" href="https://oleg.fedoseev.io/redis-trick-using-get-and-sort/" style="height:28px">
-            Read more
-            <span class="icon is-small">
-              <i class="fa fa-angle-double-right"></i>
-            </span>
-          </a>
-          
-        </div>
-      </article>
-      
-      <article>
-        <h2 class="subtitle is-6">December 17, 2011</h2>
-        <h1 class="title"><a href="https://oleg.fedoseev.io/mongodb-write-your-own-reads/">MongoDB - как убедиться что мы обновляем то, что прочитали?</a></h1>
-        
-        <div class="content">
-          Иногда бывает необходимо убедиться что обновляемый документ не был изменён кем-то ещё после того как мы его прочитали. В мире реляционных баз данных для этого можно было бы применить транзакции, хотя они тоже не лучшее решение. Но в MongoDB нет даже транзакций. Как бы в такой ситуации?
-Рассмотрим типичный use-case - редактирование документа через веб-форму. После того как мы прочитали документ и начали его редактировать и до момента сохранения может пройти много времени.
-          
-          ...<a class="button is-link" href="https://oleg.fedoseev.io/mongodb-write-your-own-reads/" style="height:28px">
-            Read more
-            <span class="icon is-small">
-              <i class="fa fa-angle-double-right"></i>
-            </span>
-          </a>
-          
-        </div>
-      </article>
-      
-      <article>
-        <h2 class="subtitle is-6">April 27, 2009</h2>
-        <h1 class="title"><a href="https://oleg.fedoseev.io/zend-certified-enginer/">Теперь я Zend Certified Engineer</a></h1>
-        
-        <div class="content">
-          24 апреля я успешно сдал тест на звание Zend Certified Engineer. Я 61-ый в России, кто получил этот сертификат.
-Подготовка заняла месяца два не сильно напрягаясь. Использовал 8 из 10 пробных экзаменов, но как оказалось вопросы на реальном экзамене хоть и на те же темы, но более сложные. Хотя если знаешь предмет, то всё равно проблем не возникнет.
-На тест дается 90 минут, но я уложился в час, успев дважды проверить все вопросы.
-          
-          ...<a class="button is-link" href="https://oleg.fedoseev.io/zend-certified-enginer/" style="height:28px">
             Read more
             <span class="icon is-small">
               <i class="fa fa-angle-double-right"></i>
