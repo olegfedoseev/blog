@@ -73,6 +73,16 @@
     </item>
     
     <item>
+      <title>Доклад &#34;Профилирование веб-приложений в современных условиях&#34;</title>
+      <link>https://oleg.fedoseev.io/2016/11/devfest-siberia/</link>
+      <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://oleg.fedoseev.io/2016/11/devfest-siberia/</guid>
+      <description>&lt;p&gt;Выступил на DevFest Siberia 2016 с докладом про профилирование и мониторинг фронтенда.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Docker Novosibirsk и доклад &#34;Что нового в Docker 1.12&#34;</title>
       <link>https://oleg.fedoseev.io/2016/09/docker-novosibirsk/</link>
       <pubDate>Sat, 10 Sep 2016 00:00:00 +0000</pubDate>

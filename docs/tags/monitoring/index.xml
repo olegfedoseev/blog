@@ -22,5 +22,15 @@
 &lt;iframe width=&#34;800&#34; height=&#34;450&#34; src=&#34;https://www.youtube.com/embed/pPaGO9n0_E8&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>Доклад &#34;Профилирование веб-приложений в современных условиях&#34;</title>
+      <link>https://oleg.fedoseev.io/2016/11/devfest-siberia/</link>
+      <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://oleg.fedoseev.io/2016/11/devfest-siberia/</guid>
+      <description>&lt;p&gt;Выступил на DevFest Siberia 2016 с докладом про профилирование и мониторинг фронтенда.
+&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
