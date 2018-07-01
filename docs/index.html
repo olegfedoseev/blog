@@ -224,6 +224,118 @@
         </article>
         
         <article>
+          <h2 class="subtitle is-6">May 30, 2016</h2>
+          <h1 class="title"><a href="https://oleg.fedoseev.io/go-profiling/">Доклад &#34;Профилирование и оптимизация программ на Go&#34;</a></h1>
+          
+          <div class="tags">
+    
+        <a class="button is-link" href="/tags/golang">golang</a>
+    
+        <a class="button is-link" href="/tags/talks">talks</a>
+    
+        <a class="button is-link" href="/tags/meetups">meetups</a>
+    
+</div>
+
+          
+          <div class="content">
+            Рассказал про то как пользоваться pprof для поиска узких места в программах на Go на Golang NSK Meetup 
+Слайды к докладу:
+Ваш браузер не умеет встраивать PDF&rsquo;ки, так что просто скачайте слайды и посмотрите сами
+            
+          </div>
+        </article>
+        
+        <article>
+          <h2 class="subtitle is-6">February 9, 2016</h2>
+          <h1 class="title"><a href="https://oleg.fedoseev.io/intro-to-docker/">Доклад &#34;Docker для самых маленьких&#34;</a></h1>
+          
+          <div class="tags">
+    
+        <a class="button is-link" href="/tags/golang">golang</a>
+    
+        <a class="button is-link" href="/tags/docker">docker</a>
+    
+        <a class="button is-link" href="/tags/talks">talks</a>
+    
+        <a class="button is-link" href="/tags/meetups">meetups</a>
+    
+</div>
+
+          
+          <div class="content">
+            Рассказал про Docker на Golang NSK Meetup и показал 2 демки, одну про реагирование на события от докера, вторую про COW ФС и создание снепшотов базы данных. Сам доклад: 
+
+            
+            ...<a class="button is-link" href="https://oleg.fedoseev.io/intro-to-docker/" style="height:28px">
+              Read more
+              <span class="icon is-small">
+                <i class="fa fa-angle-double-right"></i>
+              </span>
+            </a>
+            
+          </div>
+        </article>
+        
+        <article>
+          <h2 class="subtitle is-6">June 30, 2015</h2>
+          <h1 class="title"><a href="https://oleg.fedoseev.io/highload/">Доклад &#34;Что такое Highload?&#34;</a></h1>
+          
+          <div class="tags">
+    
+        <a class="button is-link" href="/tags/highload">highload</a>
+    
+        <a class="button is-link" href="/tags/talks">talks</a>
+    
+        <a class="button is-link" href="/tags/meetups">meetups</a>
+    
+        <a class="button is-link" href="/tags/ngs">ngs</a>
+    
+</div>
+
+          
+          <div class="content">
+            Рассказал про хайлоад и как из LAMP&rsquo;ового бложика сделать мега проект с балансировщиками и шардином с репликацией и, конечно, с NoSQL :-)
+
+            
+            ...<a class="button is-link" href="https://oleg.fedoseev.io/highload/" style="height:28px">
+              Read more
+              <span class="icon is-small">
+                <i class="fa fa-angle-double-right"></i>
+              </span>
+            </a>
+            
+          </div>
+        </article>
+        
+        <article>
+          <h2 class="subtitle is-6">February 15, 2015</h2>
+          <h1 class="title"><a href="https://oleg.fedoseev.io/monitoring/">Доклад &#34;Мониторинг проектов - от сервер до бразера&#34;</a></h1>
+          
+          <div class="tags">
+    
+        <a class="button is-link" href="/tags/talks">talks</a>
+    
+        <a class="button is-link" href="/tags/meetups">meetups</a>
+    
+</div>
+
+          
+          <div class="content">
+            Рассказал про мониторинг, как мы это делаем в НГС и в частности про Pinba
+
+            
+            ...<a class="button is-link" href="https://oleg.fedoseev.io/monitoring/" style="height:28px">
+              Read more
+              <span class="icon is-small">
+                <i class="fa fa-angle-double-right"></i>
+              </span>
+            </a>
+            
+          </div>
+        </article>
+        
+        <article>
           <h2 class="subtitle is-6">December 21, 2011</h2>
           <h1 class="title"><a href="https://oleg.fedoseev.io/redis-trick-using-get-and-sort/">Redis - хитрость использования GET и SORT</a></h1>
           
@@ -232,43 +344,6 @@
 При этом список нужных полей хранится в &ldquo;списке&rdquo;: redis&gt; LPUSH object &ldquo;title&rdquo; (integer) 1 redis&gt; LPUSH object &ldquo;name&rdquo; (integer) 2 redis&gt; LPUSH object &ldquo;tags&rdquo; (integer) 3 redis&gt; LRANGE object 0 -1 1) &ldquo;tags&rdquo; 2) &ldquo;name&rdquo; 3) &ldquo;title&rdquo;
             
             ...<a class="button is-link" href="https://oleg.fedoseev.io/redis-trick-using-get-and-sort/" style="height:28px">
-              Read more
-              <span class="icon is-small">
-                <i class="fa fa-angle-double-right"></i>
-              </span>
-            </a>
-            
-          </div>
-        </article>
-        
-        <article>
-          <h2 class="subtitle is-6">December 17, 2011</h2>
-          <h1 class="title"><a href="https://oleg.fedoseev.io/mongodb-write-your-own-reads/">MongoDB - как убедиться что мы обновляем то, что прочитали?</a></h1>
-          
-          <div class="content">
-            Иногда бывает необходимо убедиться что обновляемый документ не был изменён кем-то ещё после того как мы его прочитали. В мире реляционных баз данных для этого можно было бы применить транзакции, хотя они тоже не лучшее решение. Но в MongoDB нет даже транзакций. Как бы в такой ситуации?
-Рассмотрим типичный use-case - редактирование документа через веб-форму. После того как мы прочитали документ и начали его редактировать и до момента сохранения может пройти много времени.
-            
-            ...<a class="button is-link" href="https://oleg.fedoseev.io/mongodb-write-your-own-reads/" style="height:28px">
-              Read more
-              <span class="icon is-small">
-                <i class="fa fa-angle-double-right"></i>
-              </span>
-            </a>
-            
-          </div>
-        </article>
-        
-        <article>
-          <h2 class="subtitle is-6">April 27, 2009</h2>
-          <h1 class="title"><a href="https://oleg.fedoseev.io/zend-certified-enginer/">Теперь я Zend Certified Engineer</a></h1>
-          
-          <div class="content">
-            24 апреля я успешно сдал тест на звание Zend Certified Engineer. Я 61-ый в России, кто получил этот сертификат.
-Подготовка заняла месяца два не сильно напрягаясь. Использовал 8 из 10 пробных экзаменов, но как оказалось вопросы на реальном экзамене хоть и на те же темы, но более сложные. Хотя если знаешь предмет, то всё равно проблем не возникнет.
-На тест дается 90 минут, но я уложился в час, успев дважды проверить все вопросы.
-            
-            ...<a class="button is-link" href="https://oleg.fedoseev.io/zend-certified-enginer/" style="height:28px">
               Read more
               <span class="icon is-small">
                 <i class="fa fa-angle-double-right"></i>
@@ -298,7 +373,7 @@
       <div class="level-right is-marginless">
         <div class="level-item">
           
-          <a class="button is-disabled">
+          <a class="button" href="/page/2/">
             Older
             <span class="icon is-small is-marginless">
               <i class="fa fa-angle-right"></i>

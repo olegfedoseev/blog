@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on oleg.fedoseev</title>
+    <link>https://oleg.fedoseev.io/tags/golang/</link>
+    <description>Recent content in Golang on oleg.fedoseev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://oleg.fedoseev.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Доклад &#34;Профилирование и оптимизация программ на Go&#34;</title>
+      <link>https://oleg.fedoseev.io/go-profiling/</link>
+      <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://oleg.fedoseev.io/go-profiling/</guid>
+      <description>Рассказал про то как пользоваться pprof для поиска узких места в программах на Go на Golang NSK Meetup 
+Слайды к докладу:
+Ваш браузер не умеет встраивать PDF&amp;rsquo;ки, так что просто скачайте слайды и посмотрите сами</description>
+    </item>
+    
+    <item>
+      <title>Доклад &#34;Docker для самых маленьких&#34;</title>
+      <link>https://oleg.fedoseev.io/intro-to-docker/</link>
+      <pubDate>Tue, 09 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://oleg.fedoseev.io/intro-to-docker/</guid>
+      <description>&lt;p&gt;Рассказал про Docker на Golang NSK Meetup и показал 2 демки, одну про реагирование на события от докера, вторую про COW ФС и создание снепшотов базы данных.
+
+&lt;br /&gt;
+&lt;br /&gt;
+Сам доклад:
+&lt;iframe width=&#34;800&#34; height=&#34;450&#34; src=&#34;https://www.youtube.com/embed/KnXBRzyWSsg?start=240&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

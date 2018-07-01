@@ -28,6 +28,26 @@
   </url>
   
   <url>
+    <loc>https://oleg.fedoseev.io/go-profiling/</loc>
+    <lastmod>2016-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oleg.fedoseev.io/intro-to-docker/</loc>
+    <lastmod>2016-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oleg.fedoseev.io/highload/</loc>
+    <lastmod>2015-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oleg.fedoseev.io/monitoring/</loc>
+    <lastmod>2015-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://oleg.fedoseev.io/redis-trick-using-get-and-sort/</loc>
     <lastmod>2011-12-21T00:00:00+00:00</lastmod>
   </url>
@@ -66,6 +86,18 @@
   </url>
   
   <url>
+    <loc>https://oleg.fedoseev.io/tags/golang/</loc>
+    <lastmod>2016-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oleg.fedoseev.io/tags/highload/</loc>
+    <lastmod>2015-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://oleg.fedoseev.io/tags/meetups/</loc>
     <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -80,6 +112,12 @@
   <url>
     <loc>https://oleg.fedoseev.io/tags/n1ru/</loc>
     <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oleg.fedoseev.io/tags/ngs/</loc>
+    <lastmod>2015-06-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
