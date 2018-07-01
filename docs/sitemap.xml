@@ -8,6 +8,26 @@
   </url>
   
   <url>
+    <loc>https://oleg.fedoseev.io/multithreading/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oleg.fedoseev.io/intro-to-docker/</loc>
+    <lastmod>2018-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oleg.fedoseev.io/whats-new-in-docker/</loc>
+    <lastmod>2017-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oleg.fedoseev.io/docker-novosibirsk/</loc>
+    <lastmod>2016-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://oleg.fedoseev.io/redis-trick-using-get-and-sort/</loc>
     <lastmod>2011-12-21T00:00:00+00:00</lastmod>
   </url>
@@ -28,8 +48,20 @@
   </url>
   
   <url>
+    <loc>https://oleg.fedoseev.io/tags/concurrency/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://oleg.fedoseev.io/tags/devnsk/</loc>
     <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oleg.fedoseev.io/tags/docker/</loc>
+    <lastmod>2018-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -52,6 +84,12 @@
   </url>
   
   <url>
+    <loc>https://oleg.fedoseev.io/tags/parallelism/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://oleg.fedoseev.io/post/</loc>
     <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -59,18 +97,18 @@
   
   <url>
     <loc>https://oleg.fedoseev.io/tags/</loc>
+    <lastmod>2018-04-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oleg.fedoseev.io/tags/talks/</loc>
     <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://oleg.fedoseev.io/categories/talks/</loc>
-    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://oleg.fedoseev.io/tags/talks/</loc>
     <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
