@@ -2,7 +2,7 @@
 date: 2016-02-09T00:00:00Z
 published: true
 title: Доклад "Docker для самых маленьких"
-url: intro-to-docker
+slug: intro-to-docker
 categories:
 - Talks
 tags:

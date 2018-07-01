@@ -2,7 +2,7 @@
 date: 2018-06-23T00:00:00Z
 published: true
 title: Доклад "Мониторинг веб-приложений в 2k18"
-url: monitoring-in-2k18
+slug: monitoring-in-2k18
 categories:
 - Talks
 tags:

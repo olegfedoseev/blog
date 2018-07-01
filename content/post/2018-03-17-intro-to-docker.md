@@ -2,7 +2,7 @@
 date: 2018-03-17T00:00:00Z
 published: true
 title: Доклад "Введение в Docker"
-url: intro-to-docker
+slug: intro-to-docker
 categories:
 - Talks
 tags:

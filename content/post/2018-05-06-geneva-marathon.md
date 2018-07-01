@@ -1,8 +1,8 @@
 ---
-date: 2018-05-06T00:00:00Z
+date: 2018-05-06
 published: true
 title: Harmony Genève Marathon
-url: geneve-marathon
+slug: geneve-marathon
 categories:
 - Life
 tags:

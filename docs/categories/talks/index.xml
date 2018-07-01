@@ -13,10 +13,10 @@
     
     <item>
       <title>Доклад &#34;Мониторинг веб-приложений в 2k18&#34;</title>
-      <link>https://oleg.fedoseev.io/monitoring-in-2k18/</link>
+      <link>https://oleg.fedoseev.io/2018/06/monitoring-in-2k18/</link>
       <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/monitoring-in-2k18/</guid>
+      <guid>https://oleg.fedoseev.io/2018/06/monitoring-in-2k18/</guid>
       <description>&lt;p&gt;Рассказал про мониторинг на &lt;a href=&#34;https://www.meetup.com/DEVNSK/events/250538484/&#34;&gt;Backend Meetup&amp;rsquo;е&lt;/a&gt; от сообщества &lt;a href=&#34;https://www.meetup.com/DEVNSK/&#34;&gt;DEVNSK&lt;/a&gt;
 
 &lt;iframe width=&#34;800&#34; height=&#34;450&#34; src=&#34;https://www.youtube.com/embed/pPaGO9n0_E8&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Доклад &#34;Многопоточность. Как её правильно готовить в ваших приложениях&#34;</title>
-      <link>https://oleg.fedoseev.io/multithreading/</link>
+      <link>https://oleg.fedoseev.io/2018/04/multithreading/</link>
       <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/multithreading/</guid>
+      <guid>https://oleg.fedoseev.io/2018/04/multithreading/</guid>
       <description>&lt;p&gt;Рассказал про нюансы построение многопоточных приложений на первом &lt;a href=&#34;https://www.meetup.com/DEVNSK/events/247797227/&#34;&gt;Backend Meetup&amp;rsquo;е&lt;/a&gt; от сообщества &lt;a href=&#34;https://www.meetup.com/DEVNSK/&#34;&gt;DEVNSK&lt;/a&gt;.
 Не обошлось без упоминания Go :-)
 
@@ -36,10 +36,10 @@
     
     <item>
       <title>Доклад &#34;Введение в Docker&#34;</title>
-      <link>https://oleg.fedoseev.io/intro-to-docker/</link>
+      <link>https://oleg.fedoseev.io/2018/03/intro-to-docker/</link>
       <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/intro-to-docker/</guid>
+      <guid>https://oleg.fedoseev.io/2018/03/intro-to-docker/</guid>
       <description>&lt;p&gt;Перед &lt;a href=&#34;https://www.meetup.com/Docker-Novosibirsk/events/247764280/&#34;&gt;первым воркшопом по Docker&amp;rsquo;у&lt;/a&gt; рассказал что же такое Docker и зачем он нужен.&lt;br /&gt;Этот воркшоп был в рамках нашего сообщества &lt;a href=&#34;https://www.meetup.com/Docker-Novosibirsk/&#34;&gt;Docker Novosibirsk&lt;/a&gt;
 
 &lt;br /&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Доклад &#34;Что нового в Docker 1.13 (17.03)&#34;</title>
-      <link>https://oleg.fedoseev.io/whats-new-in-docker/</link>
+      <link>https://oleg.fedoseev.io/2017/03/whats-new-in-docker/</link>
       <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/whats-new-in-docker/</guid>
+      <guid>https://oleg.fedoseev.io/2017/03/whats-new-in-docker/</guid>
       <description>&lt;p&gt;На третьем &lt;a href=&#34;https://www.meetup.com/Docker-Novosibirsk/events/237386446/&#34;&gt;митапе по Docker&amp;rsquo;у&lt;/a&gt; рассказал про новости из мира Docker&amp;rsquo;а.
 Новая схема версионирования, docker stack, init-процесс от Docker&amp;rsquo;а и всякое другое.
 
@@ -63,21 +63,30 @@
     
     <item>
       <title>Docker Novosibirsk и доклад &#34;Что нового в Docker 1.12&#34;</title>
-      <link>https://oleg.fedoseev.io/docker-novosibirsk/</link>
+      <link>https://oleg.fedoseev.io/2016/09/docker-novosibirsk/</link>
       <pubDate>Sat, 10 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/docker-novosibirsk/</guid>
+      <guid>https://oleg.fedoseev.io/2016/09/docker-novosibirsk/</guid>
       <description>&lt;p&gt;10 сентрября 2016 в Новосибирске на одно сообщество стало больше!&lt;br /&gt;
 Теперь у нас есть официальное &lt;a href=&#34;https://www.meetup.com/Docker-Novosibirsk/&#34;&gt;сообщество Docker&amp;rsquo;а&lt;/a&gt;.
 Кроме организации этого сообщества, выступил с докладом про новые фичи в Docker 1.12.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Доклад &#34;Умные пятницы. Или как мы строим систему обмена знаниями в R&amp;D&#34;</title>
+      <link>https://oleg.fedoseev.io/2016/06/smartfridays/</link>
+      <pubDate>Sat, 04 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://oleg.fedoseev.io/2016/06/smartfridays/</guid>
+      <description>&lt;p&gt;Выступил вместе с Сашей Кукиной на конференции &lt;a href=&#34;https://it-events.com/events/5905&#34;&gt;нАйТи ответ!&lt;/a&gt; с рассказом про наши &amp;ldquo;Умные пятницы&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Доклад &#34;Профилирование и оптимизация программ на Go&#34;</title>
-      <link>https://oleg.fedoseev.io/go-profiling/</link>
+      <link>https://oleg.fedoseev.io/2016/05/go-profiling/</link>
       <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/go-profiling/</guid>
+      <guid>https://oleg.fedoseev.io/2016/05/go-profiling/</guid>
       <description>Рассказал про то как пользоваться pprof для поиска узких места в программах на Go на Golang NSK Meetup 
 Слайды к докладу:
 Ваш браузер не умеет встраивать PDF&amp;rsquo;ки, так что просто скачайте слайды и посмотрите сами</description>
@@ -85,10 +94,10 @@
     
     <item>
       <title>Доклад &#34;Docker для самых маленьких&#34;</title>
-      <link>https://oleg.fedoseev.io/intro-to-docker/</link>
+      <link>https://oleg.fedoseev.io/2016/02/intro-to-docker/</link>
       <pubDate>Tue, 09 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/intro-to-docker/</guid>
+      <guid>https://oleg.fedoseev.io/2016/02/intro-to-docker/</guid>
       <description>&lt;p&gt;Рассказал про Docker на Golang NSK Meetup и показал 2 демки, одну про реагирование на события от докера, вторую про COW ФС и создание снепшотов базы данных.
 
 &lt;br /&gt;
@@ -99,19 +108,19 @@
     
     <item>
       <title>Доклад &#34;Что такое Highload?&#34;</title>
-      <link>https://oleg.fedoseev.io/highload/</link>
+      <link>https://oleg.fedoseev.io/2015/06/highload/</link>
       <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/highload/</guid>
+      <guid>https://oleg.fedoseev.io/2015/06/highload/</guid>
       <description>&lt;p&gt;Рассказал про хайлоад и как из LAMP&amp;rsquo;ового бложика сделать мега проект с балансировщиками и шардином с репликацией и, конечно, с NoSQL :-)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Доклад &#34;Мониторинг проектов - от сервер до бразера&#34;</title>
-      <link>https://oleg.fedoseev.io/monitoring/</link>
+      <link>https://oleg.fedoseev.io/2015/02/monitoring/</link>
       <pubDate>Sun, 15 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/monitoring/</guid>
+      <guid>https://oleg.fedoseev.io/2015/02/monitoring/</guid>
       <description>&lt;p&gt;Рассказал про мониторинг, как мы это делаем в НГС и в частности про &lt;a href=&#34;http://pinba.org&#34;&gt;Pinba&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     

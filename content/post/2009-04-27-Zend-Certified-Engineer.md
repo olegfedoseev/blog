@@ -2,7 +2,7 @@
 date: 2009-04-27T00:00:00Z
 published: true
 title: Теперь я Zend Certified Engineer
-url: zend-certified-enginer
+slug: zend-certified-enginer
 ---
 
 [![alt text](http://www.zend.com/img/yellowpages/php5_zce_logo_new.gif "Zend Certified Enginer")](http://www.zend.com/store/education/certification/yellow-pages.php#show-ClientCandidateID=ZEND010659)

@@ -2,7 +2,7 @@
 date: 2016-09-10T00:00:00Z
 published: true
 title: Docker Novosibirsk и доклад "Что нового в Docker 1.12"
-url: docker-novosibirsk
+slug: docker-novosibirsk
 categories:
 - Talks
 tags:

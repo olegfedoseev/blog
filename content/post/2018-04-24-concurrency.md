@@ -2,7 +2,7 @@
 date: 2018-04-24T00:00:00Z
 published: true
 title: Доклад "Многопоточность. Как её правильно готовить в ваших приложениях"
-url: multithreading
+slug: multithreading
 categories:
 - Talks
 tags:

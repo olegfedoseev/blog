@@ -2,7 +2,7 @@
 date: 2011-12-21T00:00:00Z
 published: true
 title: Redis - хитрость использования GET и SORT
-url: redis-trick-using-get-and-sort
+slug: redis-trick-using-get-and-sort
 ---
 
 Когда нужно сохранить в редисе сложную структуру данных, обычно делают следующим образом - значения хранят в обычных

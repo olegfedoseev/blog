@@ -13,10 +13,10 @@
     
     <item>
       <title>Доклад &#34;Многопоточность. Как её правильно готовить в ваших приложениях&#34;</title>
-      <link>https://oleg.fedoseev.io/multithreading/</link>
+      <link>https://oleg.fedoseev.io/2018/04/multithreading/</link>
       <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/multithreading/</guid>
+      <guid>https://oleg.fedoseev.io/2018/04/multithreading/</guid>
       <description>&lt;p&gt;Рассказал про нюансы построение многопоточных приложений на первом &lt;a href=&#34;https://www.meetup.com/DEVNSK/events/247797227/&#34;&gt;Backend Meetup&amp;rsquo;е&lt;/a&gt; от сообщества &lt;a href=&#34;https://www.meetup.com/DEVNSK/&#34;&gt;DEVNSK&lt;/a&gt;.
 Не обошлось без упоминания Go :-)
 

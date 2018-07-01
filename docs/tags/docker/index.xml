@@ -13,10 +13,10 @@
     
     <item>
       <title>Доклад &#34;Введение в Docker&#34;</title>
-      <link>https://oleg.fedoseev.io/intro-to-docker/</link>
+      <link>https://oleg.fedoseev.io/2018/03/intro-to-docker/</link>
       <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/intro-to-docker/</guid>
+      <guid>https://oleg.fedoseev.io/2018/03/intro-to-docker/</guid>
       <description>&lt;p&gt;Перед &lt;a href=&#34;https://www.meetup.com/Docker-Novosibirsk/events/247764280/&#34;&gt;первым воркшопом по Docker&amp;rsquo;у&lt;/a&gt; рассказал что же такое Docker и зачем он нужен.&lt;br /&gt;Этот воркшоп был в рамках нашего сообщества &lt;a href=&#34;https://www.meetup.com/Docker-Novosibirsk/&#34;&gt;Docker Novosibirsk&lt;/a&gt;
 
 &lt;br /&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Доклад &#34;Что нового в Docker 1.13 (17.03)&#34;</title>
-      <link>https://oleg.fedoseev.io/whats-new-in-docker/</link>
+      <link>https://oleg.fedoseev.io/2017/03/whats-new-in-docker/</link>
       <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/whats-new-in-docker/</guid>
+      <guid>https://oleg.fedoseev.io/2017/03/whats-new-in-docker/</guid>
       <description>&lt;p&gt;На третьем &lt;a href=&#34;https://www.meetup.com/Docker-Novosibirsk/events/237386446/&#34;&gt;митапе по Docker&amp;rsquo;у&lt;/a&gt; рассказал про новости из мира Docker&amp;rsquo;а.
 Новая схема версионирования, docker stack, init-процесс от Docker&amp;rsquo;а и всякое другое.
 
@@ -40,10 +40,10 @@
     
     <item>
       <title>Docker Novosibirsk и доклад &#34;Что нового в Docker 1.12&#34;</title>
-      <link>https://oleg.fedoseev.io/docker-novosibirsk/</link>
+      <link>https://oleg.fedoseev.io/2016/09/docker-novosibirsk/</link>
       <pubDate>Sat, 10 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/docker-novosibirsk/</guid>
+      <guid>https://oleg.fedoseev.io/2016/09/docker-novosibirsk/</guid>
       <description>&lt;p&gt;10 сентрября 2016 в Новосибирске на одно сообщество стало больше!&lt;br /&gt;
 Теперь у нас есть официальное &lt;a href=&#34;https://www.meetup.com/Docker-Novosibirsk/&#34;&gt;сообщество Docker&amp;rsquo;а&lt;/a&gt;.
 Кроме организации этого сообщества, выступил с докладом про новые фичи в Docker 1.12.&lt;/p&gt;</description>
@@ -51,10 +51,10 @@
     
     <item>
       <title>Доклад &#34;Docker для самых маленьких&#34;</title>
-      <link>https://oleg.fedoseev.io/intro-to-docker/</link>
+      <link>https://oleg.fedoseev.io/2016/02/intro-to-docker/</link>
       <pubDate>Tue, 09 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/intro-to-docker/</guid>
+      <guid>https://oleg.fedoseev.io/2016/02/intro-to-docker/</guid>
       <description>&lt;p&gt;Рассказал про Docker на Golang NSK Meetup и показал 2 демки, одну про реагирование на события от докера, вторую про COW ФС и создание снепшотов базы данных.
 
 &lt;br /&gt;

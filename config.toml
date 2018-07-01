@@ -7,6 +7,9 @@ publishDir = "docs"
 description = "Your personal description"
 keywords = ["go", "golang", "software development", "docker", "php"]
 
+[permalinks]
+  post = "/:year/:month/:slug"
+
 [taxonomies]
 tag = "tags"
 category = "categories"

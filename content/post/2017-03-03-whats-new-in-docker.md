@@ -2,7 +2,7 @@
 date: 2017-03-03T00:00:00Z
 published: true
 title: Доклад "Что нового в Docker 1.13 (17.03)"
-url: whats-new-in-docker
+slug: whats-new-in-docker
 categories:
 - Talks
 tags:

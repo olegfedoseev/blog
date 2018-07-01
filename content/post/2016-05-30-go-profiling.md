@@ -2,7 +2,7 @@
 date: 2016-05-30T00:00:00Z
 published: true
 title: Доклад "Профилирование и оптимизация программ на Go"
-url: go-profiling
+slug: go-profiling
 categories:
 - Talks
 tags:

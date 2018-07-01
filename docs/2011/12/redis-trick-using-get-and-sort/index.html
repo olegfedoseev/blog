@@ -1,0 +1,127 @@
+<body>
+  <!DOCTYPE html>
+<html lang="en-us">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="" name="keywords">
+<meta content="Redis - хитрость использования GET и SORT - oleg.fedoseev" property="og:title">
+<title>Redis - хитрость использования GET и SORT | oleg.fedoseev</title>
+<link rel="stylesheet" href="https://oleg.fedoseev.io/css/style.css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+
+
+  <section class="section">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-left">
+        <a class="nav-item" href="https://oleg.fedoseev.io/"><h1 class="title is-4">oleg.fedoseev</h1></a>
+      </div>
+      <div class="nav-right">
+        <nav class="nav-item level is-mobile">
+          
+          <a class="level-item" href="https://github.com/olegfedoseev">
+            <span class="icon">
+              <i class="fa fa-github"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://twitter.com/olegfedoseev">
+            <span class="icon">
+              <i class="fa fa-twitter"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://instagram.com/olegfedoseev">
+            <span class="icon">
+              <i class="fa fa-instagram"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://facebook.com/olegfedoseev">
+            <span class="icon">
+              <i class="fa fa-facebook"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="https://telegram.me/olegfedoseev">
+            <span class="icon">
+              <i class="fa fa-telegram"></i>
+            </span>
+          </a>
+          
+          <a class="level-item" href="/index.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
+          </a>
+          
+        </nav>
+      </div>
+    </nav>
+  </div>
+</section>
+
+  <section class="section">
+    <div class="container">
+      <h2 class="subtitle is-6">December 21, 2011</h2>
+      <h1 class="title">Redis - хитрость использования GET и SORT</h1>
+      
+      <div class="content">
+        <p>Когда нужно сохранить в редисе сложную структуру данных, обычно делают следующим образом - значения хранят в обычных
+ключах, например:
+<pre class="brush:plain">
+redis&gt; SET prefix-field-title &ldquo;Title&rdquo;
+OK
+redis&gt; SET prefix-field-name &ldquo;Name of the object&rdquo;
+OK
+redis&gt; SET prefix-field-desc &ldquo;Description&rdquo;
+OK
+redis&gt; SET prefix-field-tags &ldquo;Tags of the object&rdquo;
+OK
+</pre></p>
+
+<p>При этом список нужных полей хранится в <a href="http://redis.io/topics/data-types#lists">&ldquo;списке&rdquo;</a>:
+<pre class="brush:plain">
+redis&gt; LPUSH object &ldquo;title&rdquo;
+(integer) 1
+redis&gt; LPUSH object &ldquo;name&rdquo;
+(integer) 2
+redis&gt; LPUSH object &ldquo;tags&rdquo;
+(integer) 3
+redis&gt; LRANGE object 0 -1
+1) &ldquo;tags&rdquo;
+2) &ldquo;name&rdquo;
+3) &ldquo;title&rdquo;
+</pre></p>
+
+<p>Вопрос в том как нам эффективнее эти значения получить? Да, можно сделать LRANGE для получения списка полей, и потом
+сделать MGET, но можно сделать ещё эффективнее, можно получить за один запрос, используя комманду <a href="http://redis.io/commands/sort">SORT</a>:
+<pre class="brush:plain">
+redis&gt; SORT object GET prefix-field-*
+1) &ldquo;Tags of the object&rdquo;
+2) &ldquo;Name of the object&rdquo;
+3) &ldquo;Title&rdquo;
+</pre></p>
+
+      </div>
+    </div>
+  </section>
+  
+
+  <section class="section">
+  <div class="container has-text-centered">
+    <p></p>
+  </div>
+</section>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/dockerfile.min.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+</body>

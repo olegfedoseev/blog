@@ -13,10 +13,10 @@
     
     <item>
       <title>Доклад &#34;Профилирование и оптимизация программ на Go&#34;</title>
-      <link>https://oleg.fedoseev.io/go-profiling/</link>
+      <link>https://oleg.fedoseev.io/2016/05/go-profiling/</link>
       <pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/go-profiling/</guid>
+      <guid>https://oleg.fedoseev.io/2016/05/go-profiling/</guid>
       <description>Рассказал про то как пользоваться pprof для поиска узких места в программах на Go на Golang NSK Meetup 
 Слайды к докладу:
 Ваш браузер не умеет встраивать PDF&amp;rsquo;ки, так что просто скачайте слайды и посмотрите сами</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Доклад &#34;Docker для самых маленьких&#34;</title>
-      <link>https://oleg.fedoseev.io/intro-to-docker/</link>
+      <link>https://oleg.fedoseev.io/2016/02/intro-to-docker/</link>
       <pubDate>Tue, 09 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/intro-to-docker/</guid>
+      <guid>https://oleg.fedoseev.io/2016/02/intro-to-docker/</guid>
       <description>&lt;p&gt;Рассказал про Docker на Golang NSK Meetup и показал 2 демки, одну про реагирование на события от докера, вторую про COW ФС и создание снепшотов базы данных.
 
 &lt;br /&gt;

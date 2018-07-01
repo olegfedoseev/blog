@@ -6,17 +6,26 @@
     <description>Recent content in Ngs on oleg.fedoseev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jun 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://oleg.fedoseev.io/tags/ngs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Доклад &#34;Умные пятницы. Или как мы строим систему обмена знаниями в R&amp;D&#34;</title>
+      <link>https://oleg.fedoseev.io/2016/06/smartfridays/</link>
+      <pubDate>Sat, 04 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://oleg.fedoseev.io/2016/06/smartfridays/</guid>
+      <description>&lt;p&gt;Выступил вместе с Сашей Кукиной на конференции &lt;a href=&#34;https://it-events.com/events/5905&#34;&gt;нАйТи ответ!&lt;/a&gt; с рассказом про наши &amp;ldquo;Умные пятницы&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Доклад &#34;Что такое Highload?&#34;</title>
-      <link>https://oleg.fedoseev.io/highload/</link>
+      <link>https://oleg.fedoseev.io/2015/06/highload/</link>
       <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/highload/</guid>
+      <guid>https://oleg.fedoseev.io/2015/06/highload/</guid>
       <description>&lt;p&gt;Рассказал про хайлоад и как из LAMP&amp;rsquo;ового бложика сделать мега проект с балансировщиками и шардином с репликацией и, конечно, с NoSQL :-)&lt;/p&gt;</description>
     </item>
     

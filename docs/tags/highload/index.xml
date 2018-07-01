@@ -13,10 +13,10 @@
     
     <item>
       <title>Доклад &#34;Что такое Highload?&#34;</title>
-      <link>https://oleg.fedoseev.io/highload/</link>
+      <link>https://oleg.fedoseev.io/2015/06/highload/</link>
       <pubDate>Tue, 30 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://oleg.fedoseev.io/highload/</guid>
+      <guid>https://oleg.fedoseev.io/2015/06/highload/</guid>
       <description>&lt;p&gt;Рассказал про хайлоад и как из LAMP&amp;rsquo;ового бложика сделать мега проект с балансировщиками и шардином с репликацией и, конечно, с NoSQL :-)&lt;/p&gt;</description>
     </item>
     

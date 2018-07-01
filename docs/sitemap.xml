@@ -3,67 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://oleg.fedoseev.io/monitoring-in-2k18/</loc>
+    <loc>https://oleg.fedoseev.io/2018/06/monitoring-in-2k18/</loc>
     <lastmod>2018-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/geneve-marathon/</loc>
+    <loc>https://oleg.fedoseev.io/2018/05/geneve-marathon/</loc>
     <lastmod>2018-05-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/multithreading/</loc>
+    <loc>https://oleg.fedoseev.io/2018/04/multithreading/</loc>
     <lastmod>2018-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/intro-to-docker/</loc>
+    <loc>https://oleg.fedoseev.io/2018/03/intro-to-docker/</loc>
     <lastmod>2018-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/whats-new-in-docker/</loc>
+    <loc>https://oleg.fedoseev.io/2017/03/whats-new-in-docker/</loc>
     <lastmod>2017-03-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/docker-novosibirsk/</loc>
+    <loc>https://oleg.fedoseev.io/2016/09/docker-novosibirsk/</loc>
     <lastmod>2016-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/go-profiling/</loc>
+    <loc>https://oleg.fedoseev.io/2016/06/smartfridays/</loc>
+    <lastmod>2016-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oleg.fedoseev.io/2016/05/go-profiling/</loc>
     <lastmod>2016-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/intro-to-docker/</loc>
+    <loc>https://oleg.fedoseev.io/2016/02/intro-to-docker/</loc>
     <lastmod>2016-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/highload/</loc>
+    <loc>https://oleg.fedoseev.io/2015/06/highload/</loc>
     <lastmod>2015-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/monitoring/</loc>
+    <loc>https://oleg.fedoseev.io/2015/02/monitoring/</loc>
     <lastmod>2015-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/redis-trick-using-get-and-sort/</loc>
+    <loc>https://oleg.fedoseev.io/2011/12/redis-trick-using-get-and-sort/</loc>
     <lastmod>2011-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/mongodb-write-your-own-reads/</loc>
+    <loc>https://oleg.fedoseev.io/2011/12/mongodb-write-your-own-reads/</loc>
     <lastmod>2011-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/zend-certified-enginer/</loc>
+    <loc>https://oleg.fedoseev.io/2009/04/zend-certified-enginer/</loc>
     <lastmod>2009-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -134,7 +139,7 @@
   
   <url>
     <loc>https://oleg.fedoseev.io/tags/ngs/</loc>
-    <lastmod>2015-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2016-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
