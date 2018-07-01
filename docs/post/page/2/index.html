@@ -67,6 +67,24 @@
     <div class="container">
       
       <article>
+        <h2 class="subtitle is-6">December 21, 2011</h2>
+        <h1 class="title"><a href="https://oleg.fedoseev.io/redis-trick-using-get-and-sort/">Redis - хитрость использования GET и SORT</a></h1>
+        
+        <div class="content">
+          Когда нужно сохранить в редисе сложную структуру данных, обычно делают следующим образом - значения хранят в обычных ключах, например: redis&gt; SET prefix-field-title &ldquo;Title&rdquo; OK redis&gt; SET prefix-field-name &ldquo;Name of the object&rdquo; OK redis&gt; SET prefix-field-desc &ldquo;Description&rdquo; OK redis&gt; SET prefix-field-tags &ldquo;Tags of the object&rdquo; OK 
+При этом список нужных полей хранится в &ldquo;списке&rdquo;: redis&gt; LPUSH object &ldquo;title&rdquo; (integer) 1 redis&gt; LPUSH object &ldquo;name&rdquo; (integer) 2 redis&gt; LPUSH object &ldquo;tags&rdquo; (integer) 3 redis&gt; LRANGE object 0 -1 1) &ldquo;tags&rdquo; 2) &ldquo;name&rdquo; 3) &ldquo;title&rdquo;
+          
+          ...<a class="button is-link" href="https://oleg.fedoseev.io/redis-trick-using-get-and-sort/" style="height:28px">
+            Read more
+            <span class="icon is-small">
+              <i class="fa fa-angle-double-right"></i>
+            </span>
+          </a>
+          
+        </div>
+      </article>
+      
+      <article>
         <h2 class="subtitle is-6">December 17, 2011</h2>
         <h1 class="title"><a href="https://oleg.fedoseev.io/mongodb-write-your-own-reads/">MongoDB - как убедиться что мы обновляем то, что прочитали?</a></h1>
         

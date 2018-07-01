@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marathon on oleg.fedoseev</title>
+    <link>https://oleg.fedoseev.io/tags/marathon/</link>
+    <description>Recent content in Marathon on oleg.fedoseev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://oleg.fedoseev.io/tags/marathon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Harmony Genève Marathon</title>
+      <link>https://oleg.fedoseev.io/geneve-marathon/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://oleg.fedoseev.io/geneve-marathon/</guid>
+      <description>&lt;p&gt;Пробежал полумарафон на &lt;a href=&#34;https://www.harmonygenevemarathon.com/&#34;&gt;Harmony Genève Marathon for Unicef&lt;/a&gt;.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

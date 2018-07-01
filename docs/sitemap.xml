@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://oleg.fedoseev.io/geneve-marathon/</loc>
+    <lastmod>2018-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://oleg.fedoseev.io/multithreading/</loc>
     <lastmod>2018-04-24T00:00:00+00:00</lastmod>
   </url>
@@ -98,6 +103,18 @@
   </url>
   
   <url>
+    <loc>https://oleg.fedoseev.io/categories/life/</loc>
+    <lastmod>2018-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oleg.fedoseev.io/tags/marathon/</loc>
+    <lastmod>2018-05-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://oleg.fedoseev.io/tags/meetups/</loc>
     <lastmod>2018-06-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -130,6 +147,12 @@
   <url>
     <loc>https://oleg.fedoseev.io/post/</loc>
     <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oleg.fedoseev.io/tags/running/</loc>
+    <lastmod>2018-05-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
