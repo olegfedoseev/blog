@@ -6,10 +6,22 @@
     <description>Recent content on oleg.fedoseev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://oleg.fedoseev.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Доклад &#34;Мониторинг 2.0 - Трейсинг в распределённых системах&#34;</title>
+      <link>https://oleg.fedoseev.io/2018/08/distibuted-tracing/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://oleg.fedoseev.io/2018/08/distibuted-tracing/</guid>
+      <description>&lt;p&gt;Сделал обзорный доклад про трейсинг на &lt;a href=&#34;https://www.meetup.com/DEVNSK/events/250538484/&#34;&gt;Backend Meetup&amp;rsquo;е&lt;/a&gt; от сообщества &lt;a href=&#34;https://www.meetup.com/DEVNSK/&#34;&gt;DEVNSK&lt;/a&gt;
+
+&lt;iframe width=&#34;800&#34; height=&#34;450&#34; src=&#34;https://www.youtube.com/embed/0On-6y9-8sQ&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;br /&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Доклад &#34;Мониторинг веб-приложений в 2k18&#34;</title>

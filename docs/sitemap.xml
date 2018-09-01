@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://oleg.fedoseev.io/2018/08/distibuted-tracing/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://oleg.fedoseev.io/2018/06/monitoring-in-2k18/</loc>
     <lastmod>2018-06-23T00:00:00+00:00</lastmod>
   </url>
@@ -90,7 +95,7 @@
   
   <url>
     <loc>https://oleg.fedoseev.io/tags/devnsk/</loc>
-    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -126,19 +131,19 @@
   
   <url>
     <loc>https://oleg.fedoseev.io/tags/meetups/</loc>
-    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://oleg.fedoseev.io/tags/monitoring/</loc>
-    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://oleg.fedoseev.io/tags/n1ru/</loc>
-    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -156,7 +161,7 @@
   
   <url>
     <loc>https://oleg.fedoseev.io/post/</loc>
-    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -173,20 +178,26 @@
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/tags/talks/</loc>
-    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+    <loc>https://oleg.fedoseev.io/categories/talks/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://oleg.fedoseev.io/categories/talks/</loc>
-    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+    <loc>https://oleg.fedoseev.io/tags/talks/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://oleg.fedoseev.io/tags/tracing/</loc>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://oleg.fedoseev.io/</loc>
-    <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
